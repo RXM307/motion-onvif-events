@@ -1,22 +1,22 @@
 {
-  "name": "motion-onvif-events",
-  "version": "1.0.3",
+  "name": "zmonvif-events",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
-  "homepage": "https://github.com/rostislavzz/motion-onvif-events",
+  "homepage": "https://github.com/nickw444/zmonvif-events",
   "dependencies": {
     "argparse": "^1.0.10",
     "node-fetch": "^2.1.2",
     "onvif": "https://github.com/nickw444/onvif.git"
   },
   "bin": {
-    "motion-onvif-events": "./motion-onvif-events.js"
+    "zmonvif-events": "./zmonvif-events.js"
   },
   "keywords": [
     "onvif",
     "video",
     "NVR",
-    "Motion",
+    "zoneminder",
     "PTZ",
     "RTSP"
   ]
